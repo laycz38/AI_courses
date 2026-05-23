@@ -4,7 +4,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-个人学习笔记仓库，主要存放 AI 相关课程的学习笔记、代码练习和实验内容。
+个人 AI 学习笔记仓库，主要存放 AI 相关课程的学习笔记、代码练习和实验内容。
+
+- **GitHub:** `git@github.com:laycz38/AI_courses.git`
+- **默认分支:** `main`
 
 ## Courses
 
@@ -13,5 +16,5 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Notes
 
 - 笔记以 Markdown 为主，配合代码示例
-- 每章笔记开头列出该章知识点大纲，末尾有关键词标签
-- 代码练习放在章节目录下的 `code/` 子目录中
+- 每章按章节组织，开头列出知识点大纲，末尾有关键词标签
+- 首次推送后及时 `git push` 同步
