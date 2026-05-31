@@ -12,6 +12,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Courses
 
 - `浙大-人工智能模型与算法/` — 浙江大学《人工智能：模型与算法》课程笔记，共 11 章
+- `黑马大模型课程/阶段四_深度学习/` — 黑马大模型课程：深度学习入门、PyTorch 使用、神经网络基础
 
 ## 本地环境
 
