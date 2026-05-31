@@ -13,6 +13,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - `浙大-人工智能模型与算法/` — 浙江大学《人工智能：模型与算法》课程笔记，共 11 章
 
+## 本地环境
+
+- **conda 路径:** `D:\coding_software\anaconda3\`
+- **虚拟环境:** `vibe_AIFriends`（目录: `D:\coding_software\anaconda3\envs\vibe_AIFriends\`）
+- **Python:** `D:\coding_software\anaconda3\envs\vibe_AIFriends\python.exe`
+- **激活方式:** 先 `& "D:\coding_software\anaconda3\Scripts\conda.exe" init powershell`，再 `conda activate vibe_AIFriends`；或直接用完整 Python 路径
+
 ## Notes
 
 - 笔记以 Markdown 为主，配合代码示例
